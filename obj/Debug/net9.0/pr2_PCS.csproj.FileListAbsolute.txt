@@ -1,0 +1,14 @@
+C:\Users\sossu\Onedrive\Рабочий Стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sossu\Onedrive\Рабочий Стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.AssemblyInfoInputs.cache
+C:\Users\sossu\Onedrive\Рабочий Стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.AssemblyInfo.cs
+C:\Users\sossu\Onedrive\Рабочий Стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.csproj.CoreCompileInputs.cache
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\bin\Debug\net9.0\pr2_PCS.exe
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\bin\Debug\net9.0\pr2_PCS.deps.json
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\bin\Debug\net9.0\pr2_PCS.runtimeconfig.json
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\bin\Debug\net9.0\pr2_PCS.dll
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\bin\Debug\net9.0\pr2_PCS.pdb
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.dll
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\obj\Debug\net9.0\refint\pr2_PCS.dll
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.pdb
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\obj\Debug\net9.0\pr2_PCS.genruntimeconfig.cache
+C:\Users\sossu\Onedrive\Рабочий стол\pr2_PCS\obj\Debug\net9.0\ref\pr2_PCS.dll
